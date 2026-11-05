@@ -16,6 +16,13 @@ FIGS = HERE / "figures"
 FIGS.mkdir(exist_ok=True)
 TODAY = pd.Timestamp("today").normalize()
 
+
+def md(ts):
+    """Month and day without a leading zero, e.g. Oct 7 (works on Windows, Mac and Linux)."""
+    ts = pd.Timestamp(ts)
+    return f"{ts:%b} {ts.day}"
+
+
 INK, MUTED, GRID, EDGE = "#0b0b0b", "#6b6a64", "#e1e0d9", "#c3c2b7"
 STATUS = {"Done": "#2a78d6", "In progress": "#eb6834", "Planned": "#b9b8b1"}
 plt.rcParams.update({"font.size": 15, "axes.spines.top": False, "axes.spines.right": False,
@@ -37,7 +44,7 @@ for i, (kind, r) in enumerate(rows):
     y = n - 1 - i
     if kind == "ms":
         ax.plot(r["start"], y, marker="D", ms=14, color=STATUS[r["status"]], mec="white", mew=2, zorder=4)
-        ax.text(r["start"] + pd.Timedelta(days=2.5), y, f"{r['start']:%b %-d}", va="center", fontsize=13,
+        ax.text(r["start"] + pd.Timedelta(days=2.5), y, md(r["start"]), va="center", fontsize=13,
                 color=INK, fontweight="bold", zorder=5,
                 bbox=dict(fc="white", ec="none", pad=1.5))
         labels.append(r["label"])
@@ -60,11 +67,11 @@ lo = m["start"].min() - pd.Timedelta(days=4)
 hi = m["end"].max() + pd.Timedelta(days=16)
 if lo <= TODAY <= hi:
     ax.axvline(TODAY, color="#d03b3b", lw=1.6, ls="--", zorder=2)
-    ax.text(TODAY, n - 0.35, f"Today, {TODAY:%b %-d}", color="#d03b3b", ha="center", va="bottom", fontsize=12)
+    ax.text(TODAY, n - 0.35, f"Today, {md(TODAY)}", color="#d03b3b", ha="center", va="bottom", fontsize=12)
 ax.set_xlim(lo, hi)
 ax.set_ylim(-0.7, n + 0.2)
 ax.xaxis.set_major_locator(mdates.WeekdayLocator(byweekday=mdates.MO, interval=2))
-ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %-d"))
+ax.xaxis.set_major_formatter(plt.FuncFormatter(lambda x, _: md(mdates.num2date(x).replace(tzinfo=None))))
 plt.setp(ax.get_xticklabels(), fontsize=12)
 ax.grid(axis="x", color=GRID, lw=0.8)
 ax.set_axisbelow(True)
