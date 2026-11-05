@@ -64,8 +64,7 @@ c3.metric("Health-based", int((viol["health_based"] == "Y").sum()))
 c4.metric("State penalty (Jul 2026)", f"${penalty['penalty_usd'].sum():,.0f}")
 c5.metric("Bacteria tests clean", f"{int((coliform['total_coliform_present'] == 0).sum())} of {len(coliform)}")
 
-tabs = st.tabs(["Violations", "Water quality", "Lead & copper", "Penalty & fixes",
-                "Rainfall", "Conservation", "About the data"])
+tabs = st.tabs(["Violations", "Water quality", "Lead & copper", "Penalty & fixes", "About the data"])
 
 # ---------------------------------------------------------------- 3. Violations tab
 with tabs[0]:
@@ -196,17 +195,8 @@ with tabs[3]:
                  column_config={"description": "Problem", "facility": "Where", "component": "Part of system",
                                 "days_to_correct_after_order": "Days allowed to fix"})
 
-# ---------------------------------------------------------------- 7. Placeholder tabs for teammates
+# ---------------------------------------------------------------- 7. About the data
 with tabs[4]:
-    st.subheader("Rainfall")
-    st.info("Coming soon. To add it: put a CSV in data/ (for example rainfall_monthly.csv), "
-            "load it at the top of app.py with load(), and draw it here.")
-with tabs[5]:
-    st.subheader("Conservation")
-    st.info("Coming soon. Same steps as the Rainfall tab.")
-
-# ---------------------------------------------------------------- 8. About the data
-with tabs[6]:
     st.subheader("Sources")
     st.markdown(
         "- [NMED Drinking Water Watch: Cuba Water System](https://dww.water.env.nm.gov/JSP/WaterSystemDetail.jsp?tinwsys_is_number=454&tinwsys_st_code=NM)\n"
