@@ -52,7 +52,8 @@ st.title("Cuba, NM Drinking Water")
 st.caption(
     f"{system['name'].title()} · ID {system['pwsid']} · {int(system['population_served']):,} people · "
     f"{int(system['service_connections'])} connections · groundwater from 3 wells. "
-    f"Data pulled {pd.Timestamp(system['data_pulled']):%B %-d, %Y} from EPA SDWIS and NMED Drinking Water Watch."
+    f"Data pulled {pd.Timestamp(system['data_pulled']):%B} {pd.Timestamp(system['data_pulled']).day}, "
+    f"{pd.Timestamp(system['data_pulled']):%Y} from EPA SDWIS and NMED Drinking Water Watch."
 )
 
 is_open = viol["status"].str.startswith("Open")
