@@ -1,0 +1,8 @@
+violation,gravity,penalty_per_day_usd,days_counted,penalty_usd,order_no,order_date
+"Consumer Confidence Report not delivered (2023, 2024)",Minor,60,2.0,120,2026-DW-ACOP-02,2026-07-14
+"CCR certification not submitted (2023, 2024)",Minor,60,2.0,120,2026-DW-ACOP-02,2026-07-14
+"Public notice not issued (asbestos monitoring, 2020-22)",Minor,60,1.0,60,2026-DW-ACOP-02,2026-07-14
+"Significant deficiencies not corrected (2018, 2021, 2024 surveys)",Moderate,140,922.0,129080,2026-DW-ACOP-02,2026-07-14
+"Lead consumer notices not provided (6 periods, 2010-2025)",Minor,60,6.0,360,2026-DW-ACOP-02,2026-07-14
+No certified operator,Major,500,8.0,4000,2026-DW-ACOP-02,2026-07-14
+Noncompliance with 2022 Administrative Compliance Order,N/A,1000,,1000,2026-DW-ACOP-02,2026-07-14

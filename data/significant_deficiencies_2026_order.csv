@@ -1,0 +1,15 @@
+deficiency_code,description,facility,component,days_to_correct_after_order,order_no
+001M,External or internal corrosion of storage facility,La Loma Tank,Storage,90,2026-DW-ACOP-02
+006P,Pressures in distribution system too low (20 psi),Distribution system,Distribution,90,2026-DW-ACOP-02
+001L,Well head not properly sealed,Well #1,Source (well),30,2026-DW-ACOP-02
+002O,Cross-connection present,Well #2,Source (well),90,2026-DW-ACOP-02
+001K,Inadequate surface construction,Well #1,Source (well),90,2026-DW-ACOP-02
+001J,Inadequate site security,Well #2,Source (well),30,2026-DW-ACOP-02
+004A,Inadequate replacement equipment for critical processes,Treatment Plant #1,Treatment,90,2026-DW-ACOP-02
+005A,Inadequate controls,Treatment Plant #1,Treatment,90,2026-DW-ACOP-02
+001E,Poor housekeeping of system facility,Treatment Plant #1,Treatment,30,2026-DW-ACOP-02
+001E,Poor housekeeping of system facility,Main Booster Station,Pumping,30,2026-DW-ACOP-02
+002P,Cross-connection present,Nacimiento Road Booster Station,Pumping,90,2026-DW-ACOP-02
+006M,No recent storage tank inspection,Storage Tank #2,Storage,90,2026-DW-ACOP-02
+002U,Failure to have an appropriately certified operator,System-wide,Management,90,2026-DW-ACOP-02
+005H,System management policies adversely affecting operations,System-wide,Management,90,2026-DW-ACOP-02

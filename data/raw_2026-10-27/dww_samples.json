@@ -1,0 +1,7851 @@
+{
+ "tcr": [
+  [
+   "TCR Sample Results"
+  ],
+  [
+   "Type/RP Loc",
+   "Sample No.",
+   "Date",
+   "Sample Pt.",
+   "Sample Pt.Description",
+   "Lab ID",
+   "Result / Analyte / Method / MP"
+  ],
+  [
+   "RT",
+   "885-58852-2",
+   "10-05-2026",
+   "RT002",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "10-01-202610-31-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "10-01-202610-31-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-58852-1",
+   "10-05-2026",
+   "RT001",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "10-01-202610-31-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "10-01-202610-31-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-57151-2",
+   "09-09-2026",
+   "RT002",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "09-01-202609-30-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "09-01-202609-30-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-57151-1",
+   "09-09-2026",
+   "RT001",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "09-01-202609-30-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "09-01-202609-30-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-54589-2",
+   "08-04-2026",
+   "RT005",
+   "32 CR 13",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "08-01-202608-31-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "08-01-202608-31-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-54589-1",
+   "08-04-2026",
+   "RT006",
+   "71 NMSR 126",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "08-01-202608-31-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "08-01-202608-31-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-52613-2",
+   "07-06-2026",
+   "RT004",
+   "6454 HWY 550",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "07-01-202607-31-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "07-01-202607-31-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-52613-1",
+   "07-06-2026",
+   "RT003",
+   "6432 HWY 550",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "07-01-202607-31-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "07-01-202607-31-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-50420-2",
+   "06-01-2026",
+   "RT002",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "06-01-202606-30-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "06-01-202606-30-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-50420-1",
+   "06-01-2026",
+   "RT001",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "06-01-202606-30-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "06-01-202606-30-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-48604-2",
+   "05-04-2026",
+   "RT008",
+   "3 Riverside",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "05-01-202605-31-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "05-01-202605-31-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-48604-1",
+   "05-04-2026",
+   "RT007",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "05-01-202605-31-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "05-01-202605-31-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-46784-2",
+   "04-07-2026",
+   "RT006",
+   "71 NMSR 126",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "04-01-202604-30-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "04-01-202604-30-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-46784-1",
+   "04-07-2026",
+   "RT005",
+   "32 CR 13",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "04-01-202604-30-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "04-01-202604-30-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-45387-2",
+   "03-16-2026",
+   "RT007",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "03-01-202603-31-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "03-01-202603-31-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-45387-1",
+   "03-16-2026",
+   "RT003",
+   "6432 HWY 550",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "03-01-202603-31-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "03-01-202603-31-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-43157-2",
+   "02-11-2026",
+   "RT002",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "02-01-202602-28-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "02-01-202602-28-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-43157-1",
+   "02-11-2026",
+   "RT001",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "02-01-202602-28-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "02-01-202602-28-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-41300-2",
+   "01-14-2026",
+   "RT008",
+   "3 Riverside",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "01-01-202601-31-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "01-01-202601-31-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-41300-1",
+   "01-14-2026",
+   "RT007",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "01-01-202601-31-2026"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "01-01-202601-31-2026"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-39311-2",
+   "12-10-2025",
+   "RT006",
+   "71 NMSR 126",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "12-01-202512-31-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "12-01-202512-31-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-39311-1",
+   "12-10-2025",
+   "RT005",
+   "32 CR 13",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "12-01-202512-31-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "12-01-202512-31-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-37988-2",
+   "11-19-2025",
+   "RT004",
+   "6454 HWY 550",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "11-01-202511-30-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "11-01-202511-30-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-37988-1",
+   "11-19-2025",
+   "RT003",
+   "6432 HWY 550",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "11-01-202511-30-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "11-01-202511-30-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-35499-2",
+   "10-14-2025",
+   "RT002",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "10-01-202510-31-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "10-01-202510-31-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-35499-1",
+   "10-14-2025",
+   "RT001",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "10-01-202510-31-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "10-01-202510-31-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-32432-2",
+   "09-03-2025",
+   "RT008",
+   "3 Riverside",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "09-01-202509-30-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "09-01-202509-30-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-32432-1",
+   "09-03-2025",
+   "RT007",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "09-01-202509-30-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "09-01-202509-30-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-30903-2",
+   "08-13-2025",
+   "RT006",
+   "71 NMSR 126",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "08-01-202508-31-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "08-01-202508-31-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-30903-1",
+   "08-13-2025",
+   "RT005",
+   "32 CR 13",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "08-01-202508-31-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "08-01-202508-31-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-27904-2",
+   "07-01-2025",
+   "RT004",
+   "6454 HWY 550",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "07-01-202507-31-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "07-01-202507-31-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-27904-1",
+   "07-01-2025",
+   "RT003",
+   "6432 HWY 550",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "07-01-202507-31-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "07-01-202507-31-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-25905-2",
+   "06-03-2025",
+   "RT002",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "06-01-202506-30-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "06-01-202506-30-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-25905-1",
+   "06-03-2025",
+   "RT001",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "06-01-202506-30-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "06-01-202506-30-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-24334-2",
+   "05-06-2025",
+   "RT008",
+   "3 Riverside",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "05-01-202505-31-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "05-01-202505-31-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-24334-1",
+   "05-06-2025",
+   "RT007",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "05-01-202505-31-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "05-01-202505-31-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-22785-2",
+   "04-08-2025",
+   "RT006",
+   "71 NMSR 126",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "04-01-202504-30-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "04-01-202504-30-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-22785-1",
+   "04-08-2025",
+   "RT005",
+   "32 CR 13",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "04-01-202504-30-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "04-01-202504-30-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-20814-2",
+   "03-04-2025",
+   "RT004",
+   "6454 HWY 550",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "03-01-202503-31-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "03-01-202503-31-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-20814-1",
+   "03-04-2025",
+   "RT003",
+   "6432 HWY 550",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "03-01-202503-31-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "03-01-202503-31-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-19419-2",
+   "02-05-2025",
+   "RT001",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "02-01-202502-28-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "02-01-202502-28-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-19419-1",
+   "02-05-2025",
+   "RT002",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "02-01-202502-28-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "02-01-202502-28-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-18453-2",
+   "01-15-2025",
+   "RT008",
+   "3 Riverside",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "01-01-202501-31-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "01-01-202501-31-2025"
+     ]
+    ]
+   }
+  ],
+  [
+   "RT",
+   "885-18453-1",
+   "01-15-2025",
+   "RT007",
+   "[address removed]",
+   "NM9425",
+   {
+    "nested": [
+     [
+      "A",
+      "COLIFORM (TCR) (3100)",
+      "9223B-PA",
+      "01-01-202501-31-2025"
+     ],
+     [
+      "A",
+      "E. COLI(3014)",
+      "9223B-PA",
+      "01-01-202501-31-2025"
+     ]
+    ]
+   }
+  ]
+ ],
+ "chem": {
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1019251&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-57328-4"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "85.00 UG/L",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "4.4 UG/L",
+     "01-01-2026 12-31-2026"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1019249&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-57328-2"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "32.00 UG/L",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1019248&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-57328-10"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "780.000 UG/L",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.89 UG/L",
+     "01-01-2026 12-31-2026"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1022943&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-59049-1"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "2046",
+     "CARBOFURAN",
+     "531.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2036",
+     "OXAMYL",
+     "531.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1019250&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-57328-3"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "50.00 UG/L",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1019247&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-57328-1"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "120.000 UG/L",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "5.6 UG/L",
+     "01-01-2026 12-31-2026"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1019254&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-57328-7"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "140.000 UG/L",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.56 UG/L",
+     "01-01-2026 12-31-2026"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1019253&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-57328-6"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "24.00 UG/L",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.70 UG/L",
+     "01-01-2026 12-31-2026"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1019255&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-57328-8"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "27.00 UG/L",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1019256&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-57328-9"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "11.00 UG/L",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1019252&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-57328-5"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "110.000 UG/L",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.62 UG/L",
+     "01-01-2026 12-31-2026"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1021286&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 2026022150"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1074",
+     "ANTIMONY, TOTAL",
+     "200.8",
+     "<",
+     "MRL",
+     "0.001 MG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "1005",
+     "ARSENIC",
+     "200.8",
+     "<",
+     "MRL",
+     "0.001 MG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "1010",
+     "BARIUM",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.031 MG/L",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "1075",
+     "BERYLLIUM, TOTAL",
+     "200.8",
+     "<",
+     "MRL",
+     "0.001 MG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "1015",
+     "CADMIUM",
+     "200.8",
+     "<",
+     "MRL",
+     "0.001 MG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "1020",
+     "CHROMIUM",
+     "200.8",
+     "<",
+     "MRL",
+     "0.02 MG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "1035",
+     "MERCURY",
+     "245.1",
+     "<",
+     "MRL",
+     "0.0002 MG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "1036",
+     "NICKEL",
+     "200.8",
+     "<",
+     "MRL",
+     "0.01 MG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "1045",
+     "SELENIUM",
+     "200.8",
+     "<",
+     "MRL",
+     "0.005 MG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "1052",
+     "SODIUM",
+     "200.7",
+     "",
+     "",
+     "",
+     "62.00 MG/L",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "1085",
+     "THALLIUM, TOTAL",
+     "200.8",
+     "<",
+     "MRL",
+     "0.001 MG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1019598&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 2026022169"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1038",
+     "NITRATE-NITRITE",
+     "353.2",
+     "<",
+     "MRL",
+     "0.05 MG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1018391&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 2026022157"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1025",
+     "FLUORIDE",
+     "4500F-C",
+     "",
+     "",
+     "",
+     "0.24 MG/L",
+     "01-01-2026 12-31-2028"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1018387&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 2026022153"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1024",
+     "CYANIDE",
+     "4500CN-F",
+     "<",
+     "MRL",
+     "0.05 MG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990890&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-40403-1"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "5.0 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1021970&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 2026022186"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "2931",
+     "1,2-DIBROMO-3-CHLOROPROPANE",
+     "504.1",
+     "<",
+     "MRL",
+     "0.02 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2110",
+     "2,4,5-TP",
+     "515.4",
+     "<",
+     "MRL",
+     "0.05 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2105",
+     "2,4-D",
+     "515.4",
+     "<",
+     "MRL",
+     "0.2 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2050",
+     "ATRAZINE",
+     "525.2",
+     "<",
+     "MRL",
+     "0.03 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2306",
+     "BENZO(A)PYRENE",
+     "525.2",
+     "<",
+     "MRL",
+     "0.036 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2010",
+     "BHC-GAMMA",
+     "525.2",
+     "<",
+     "MRL",
+     "0.019 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2959",
+     "CHLORDANE",
+     "508.1",
+     "<",
+     "MRL",
+     "0.1 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2031",
+     "DALAPON",
+     "515.4",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2035",
+     "DI(2-ETHYLHEXYL) ADIPATE",
+     "525.2",
+     "<",
+     "MRL",
+     "1 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2039",
+     "DI(2-ETHYLHEXYL) PHTHALATE",
+     "525.2",
+     "<",
+     "MRL",
+     "1 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2041",
+     "DINOSEB",
+     "515.4",
+     "<",
+     "MRL",
+     "0.4 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2032",
+     "DIQUAT",
+     "549.2",
+     "<",
+     "MRL",
+     "0.75 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2033",
+     "ENDOTHALL",
+     "548.1",
+     "<",
+     "MRL",
+     "18.3 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2005",
+     "ENDRIN",
+     "525.2",
+     "<",
+     "MRL",
+     "0.019 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2946",
+     "ETHYLENE DIBROMIDE",
+     "504.1",
+     "<",
+     "MRL",
+     "0.02 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2034",
+     "GLYPHOSATE",
+     "547",
+     "<",
+     "MRL",
+     "10 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2065",
+     "HEPTACHLOR",
+     "525.2",
+     "<",
+     "MRL",
+     "0.019 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2067",
+     "HEPTACHLOR EPOXIDE",
+     "525.2",
+     "<",
+     "MRL",
+     "0.025 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2274",
+     "HEXACHLOROBENZENE",
+     "525.2",
+     "<",
+     "MRL",
+     "0.014 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2042",
+     "HEXACHLOROCYCLOPENTADIENE",
+     "525.2",
+     "<",
+     "MRL",
+     "0.021 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2051",
+     "LASSO",
+     "525.2",
+     "<",
+     "MRL",
+     "0.031 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2015",
+     "METHOXYCHLOR",
+     "525.2",
+     "<",
+     "MRL",
+     "0.024 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2326",
+     "PENTACHLOROPHENOL",
+     "515.4",
+     "<",
+     "MRL",
+     "0.05 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2040",
+     "PICLORAM",
+     "515.4",
+     "<",
+     "MRL",
+     "0.1 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2037",
+     "SIMAZINE",
+     "525.2",
+     "<",
+     "MRL",
+     "0.022 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2383",
+     "TOTAL POLYCHLORINATED BIPHENYLS (PCB)",
+     "508.1",
+     "<",
+     "MRL",
+     "0.1 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ],
+    [
+     "2020",
+     "TOXAPHENE",
+     "508.1",
+     "<",
+     "MRL",
+     "0.25 UG/L",
+     "",
+     "01-01-2026 12-31-2028"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=1019580&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 2026022177"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "2981",
+     "1,1,1-TRICHLOROETHANE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2985",
+     "1,1,2-TRICHLOROETHANE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2977",
+     "1,1-DICHLOROETHYLENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2378",
+     "1,2,4-TRICHLOROBENZENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2980",
+     "1,2-DICHLOROETHANE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2983",
+     "1,2-DICHLOROPROPANE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2990",
+     "BENZENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2982",
+     "CARBON TETRACHLORIDE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2989",
+     "CHLOROBENZENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2380",
+     "CIS-1,2-DICHLOROETHYLENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2964",
+     "DICHLOROMETHANE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2992",
+     "ETHYLBENZENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2968",
+     "O-DICHLOROBENZENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2969",
+     "P-DICHLOROBENZENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2996",
+     "STYRENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2987",
+     "TETRACHLOROETHYLENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2991",
+     "TOLUENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2979",
+     "TRANS-1,2-DICHLOROETHYLENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2984",
+     "TRICHLOROETHYLENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2976",
+     "VINYL CHLORIDE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ],
+    [
+     "2955",
+     "XYLENES, TOTAL",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2026 12-31-2026"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990891&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-40403-2"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "3.3 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990118&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-20"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "14.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.81 UG/L",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990892&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-40403-3"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "9.5 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990119&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-3"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "87.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "4.1 UG/L",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990106&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-1"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "36.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990111&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-14"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "12.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990117&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-2"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "40.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "1.0 UG/L",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990121&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-5"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "100.000 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "12.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990107&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-10"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "140.000 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990109&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-12"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "15.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "1.7 UG/L",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990110&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-13"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "8.3 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990113&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-16"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "55.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.65 UG/L",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990114&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-17"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "230.000 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "8.6 UG/L",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990115&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-18"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "12.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990122&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-6"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "6.4 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990124&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-8"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "92.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "21.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990125&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-9"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "320.000 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990112&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-15"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "51.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.53 UG/L",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990116&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-19"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "33.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990123&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-7"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "50.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.84 UG/L",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990120&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-4"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "23.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "1.2 UG/L",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=990108&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-39778-11"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "24.00 UG/L",
+     "07-01-2025 12-31-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "6.4 UG/L",
+     "07-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=971162&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-28370-1"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1041",
+     "NITRITE",
+     "300.0",
+     "<",
+     "MRL",
+     "0.1 MG/L",
+     "",
+     ""
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=984961&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 2025018939D"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "4010",
+     "COMBINED RADIUM (-226 & -228)",
+     "",
+     "",
+     "",
+     "",
+     "0.78 PCI/L",
+     "07-01-2025 09-30-2025"
+    ],
+    [
+     "4006",
+     "COMBINED URANIUM",
+     "",
+     "<",
+     "MRL",
+     "1 UG/L",
+     "",
+     "07-01-2025 09-30-2025"
+    ],
+    [
+     "4000",
+     "GROSS ALPHA, EXCL. RADON & U",
+     "",
+     "",
+     "",
+     "",
+     "4.5 PCI/L",
+     "07-01-2025 09-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=984960&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 2025018939C"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "4010",
+     "COMBINED RADIUM (-226 & -228)",
+     "",
+     "",
+     "",
+     "",
+     "0.78 PCI/L",
+     "04-01-2025 06-30-2025"
+    ],
+    [
+     "4006",
+     "COMBINED URANIUM",
+     "",
+     "<",
+     "MRL",
+     "1 UG/L",
+     "",
+     "04-01-2025 06-30-2025"
+    ],
+    [
+     "4000",
+     "GROSS ALPHA, EXCL. RADON & U",
+     "",
+     "",
+     "",
+     "",
+     "4.5 PCI/L",
+     "04-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963665&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-1"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.0048 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.0005 MG/L",
+     "",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963667&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-11"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.042 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.0005 MG/L",
+     "",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963669&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-13"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.069 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.0069 MG/L",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963670&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-14"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.034 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.00055 MG/L",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=971163&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-28370-2"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1002",
+     "ALUMINUM",
+     "200.7",
+     "<",
+     "MRL",
+     "0.02 MG/L",
+     "",
+     ""
+    ],
+    [
+     "1017",
+     "CHLORIDE",
+     "300.0",
+     "",
+     "",
+     "",
+     "2.0 MG/L",
+     ""
+    ],
+    [
+     "1905",
+     "COLOR",
+     "2120B",
+     "<",
+     "MRL",
+     "2 CU",
+     "",
+     ""
+    ],
+    [
+     "1025",
+     "FLUORIDE",
+     "300.0",
+     "",
+     "",
+     "",
+     "0.21 MG/L",
+     ""
+    ],
+    [
+     "2905",
+     "FOAMING AGENTS (SURFACTANTS)",
+     "5540C",
+     "<",
+     "MRL",
+     "0.1 MG/L",
+     "",
+     ""
+    ],
+    [
+     "1028",
+     "IRON",
+     "200.7",
+     "",
+     "",
+     "",
+     "0.16 MG/L",
+     ""
+    ],
+    [
+     "1032",
+     "MANGANESE",
+     "200.7",
+     "",
+     "",
+     "",
+     "0.90 MG/L",
+     ""
+    ],
+    [
+     "1920",
+     "ODOR",
+     "2150B",
+     "",
+     "",
+     "",
+     "2.0 TON",
+     ""
+    ],
+    [
+     "1925",
+     "PH",
+     "SM 4500H+ B",
+     "",
+     "",
+     "",
+     "7.7 SU",
+     ""
+    ],
+    [
+     "1050",
+     "SILVER",
+     "200.7",
+     "<",
+     "MRL",
+     "0.005 MG/L",
+     "",
+     ""
+    ],
+    [
+     "1055",
+     "SULFATE",
+     "300.0",
+     "",
+     "",
+     "",
+     "120.000 MG/L",
+     ""
+    ],
+    [
+     "1930",
+     "TDS",
+     "2540C",
+     "",
+     "",
+     "",
+     "566.000 MG/L",
+     ""
+    ],
+    [
+     "1095",
+     "ZINC",
+     "200.7",
+     "",
+     "",
+     "",
+     "0.027 MG/L",
+     ""
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963671&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-15"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.11 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.0029 MG/L",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963676&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-2"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.079 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.0005 MG/L",
+     "",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963673&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-17"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.13 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.0031 MG/L",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963674&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-18"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.0099 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.0005 MG/L",
+     "",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963666&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-10"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.14 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.00055 MG/L",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963679&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-4"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.010 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.0005 MG/L",
+     "",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963668&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-12"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.0058 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.0005 MG/L",
+     "",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963672&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-16"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.0053 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.0005 MG/L",
+     "",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963675&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-19"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.28 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.0005 MG/L",
+     "",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963677&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-20"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.015 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.0005 MG/L",
+     "",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963678&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-3"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.024 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.00075 MG/L",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963680&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-5"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.018 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.0005 MG/L",
+     "",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963681&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-6"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.073 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.0005 MG/L",
+     "",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963683&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-8"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.027 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.00074 MG/L",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963682&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-7"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.13 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "<",
+     "MRL",
+     "0.0005 MG/L",
+     "",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=963684&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-24428-9"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1022",
+     "COPPER, FREE",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.18 MG/L",
+     "01-01-2025 06-30-2025"
+    ],
+    [
+     "1030",
+     "LEAD",
+     "200.8",
+     "",
+     "",
+     "",
+     "0.0049 MG/L",
+     "01-01-2025 06-30-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=960929&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 885-22411-1"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1094",
+     "ASBESTOS",
+     "100.2",
+     "<",
+     "MRL",
+     "0.177 MFL",
+     "",
+     ""
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=958527&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 2025006752"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "1038",
+     "NITRATE-NITRITE",
+     "353.2",
+     "",
+     "",
+     "",
+     "0.13 MG/L",
+     "01-01-2025 12-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=984959&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 2025018939B"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "4010",
+     "COMBINED RADIUM (-226 & -228)",
+     "",
+     "",
+     "",
+     "",
+     "0.78 PCI/L",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "4006",
+     "COMBINED URANIUM",
+     "",
+     "<",
+     "MRL",
+     "1 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "4000",
+     "GROSS ALPHA, EXCL. RADON & U",
+     "",
+     "",
+     "",
+     "",
+     "4.5 PCI/L",
+     "01-01-2025 03-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=961179&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 2025006753"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "2981",
+     "1,1,1-TRICHLOROETHANE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2985",
+     "1,1,2-TRICHLOROETHANE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2977",
+     "1,1-DICHLOROETHYLENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2378",
+     "1,2,4-TRICHLOROBENZENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2980",
+     "1,2-DICHLOROETHANE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2983",
+     "1,2-DICHLOROPROPANE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2990",
+     "BENZENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2982",
+     "CARBON TETRACHLORIDE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2989",
+     "CHLOROBENZENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2380",
+     "CIS-1,2-DICHLOROETHYLENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2964",
+     "DICHLOROMETHANE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2992",
+     "ETHYLBENZENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2968",
+     "O-DICHLOROBENZENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2969",
+     "P-DICHLOROBENZENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2996",
+     "STYRENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2987",
+     "TETRACHLOROETHYLENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2991",
+     "TOLUENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2979",
+     "TRANS-1,2-DICHLOROETHYLENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2984",
+     "TRICHLOROETHYLENE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2976",
+     "VINYL CHLORIDE",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2955",
+     "XYLENES, TOTAL",
+     "524.2",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ]
+   ]
+  ],
+  "NonTcrSampleResults.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&tsasampl_is_number=962542&tsasampl_st_code=NM&history=0&counter=0": [
+   [
+    [
+     "New Mexico Environment Department",
+     "UOCP Operator Lookup",
+     "Drinking Water Program"
+    ],
+    [
+     "County Map of NM",
+     "Water System Search",
+     "Help"
+    ]
+   ],
+   [
+    [
+     "Water System Detail Information"
+    ],
+    [
+     "Water System No.:",
+     "NM3509023",
+     "Federal Type:",
+     "C"
+    ],
+    [
+     "Water System Name:",
+     "CUBA WATER SYSTEM",
+     "Federal Source:",
+     "GW"
+    ],
+    [
+     "Principal County Served:",
+     "SANDOVAL",
+     "System Status:",
+     "A"
+    ],
+    [
+     "Principal City Served:",
+     "CUBA",
+     "Activity Date:",
+     "06-01-1977"
+    ]
+   ],
+   [
+    [
+     "Sample Number: 2025006759"
+    ]
+   ],
+   [
+    [
+     "Other Chemical Sample Results"
+    ],
+    [
+     "AnalyteCode",
+     "AnalyteName",
+     "Method",
+     "LessThanInd.",
+     "LevelType",
+     "ReportingLevel",
+     "Concentration",
+     "MP"
+    ],
+    [
+     "2931",
+     "1,2-DIBROMO-3-CHLOROPROPANE",
+     "504.1",
+     "<",
+     "MRL",
+     "0.02 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2110",
+     "2,4,5-TP",
+     "515.4",
+     "<",
+     "MRL",
+     "0.05 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2105",
+     "2,4-D",
+     "515.4",
+     "<",
+     "MRL",
+     "0.2 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2050",
+     "ATRAZINE",
+     "525.2",
+     "<",
+     "MRL",
+     "0.03 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2306",
+     "BENZO(A)PYRENE",
+     "525.2",
+     "<",
+     "MRL",
+     "0.036 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2010",
+     "BHC-GAMMA",
+     "525.2",
+     "<",
+     "MRL",
+     "0.019 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2959",
+     "CHLORDANE",
+     "508.1",
+     "<",
+     "MRL",
+     "0.05 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2031",
+     "DALAPON",
+     "515.4",
+     "<",
+     "MRL",
+     "0.5 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2035",
+     "DI(2-ETHYLHEXYL) ADIPATE",
+     "525.2",
+     "<",
+     "MRL",
+     "1 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2039",
+     "DI(2-ETHYLHEXYL) PHTHALATE",
+     "525.2",
+     "<",
+     "MRL",
+     "1 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2041",
+     "DINOSEB",
+     "515.4",
+     "<",
+     "MRL",
+     "0.4 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2032",
+     "DIQUAT",
+     "549.2",
+     "<",
+     "MRL",
+     "0.75 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2033",
+     "ENDOTHALL",
+     "548.1",
+     "<",
+     "MRL",
+     "18.3 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2005",
+     "ENDRIN",
+     "525.2",
+     "<",
+     "MRL",
+     "0.019 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2946",
+     "ETHYLENE DIBROMIDE",
+     "504.1",
+     "<",
+     "MRL",
+     "0.02 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2034",
+     "GLYPHOSATE",
+     "547",
+     "<",
+     "MRL",
+     "10 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2065",
+     "HEPTACHLOR",
+     "525.2",
+     "<",
+     "MRL",
+     "0.019 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2067",
+     "HEPTACHLOR EPOXIDE",
+     "525.2",
+     "<",
+     "MRL",
+     "0.025 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2274",
+     "HEXACHLOROBENZENE",
+     "525.2",
+     "<",
+     "MRL",
+     "0.014 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2042",
+     "HEXACHLOROCYCLOPENTADIENE",
+     "525.2",
+     "<",
+     "MRL",
+     "0.021 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2051",
+     "LASSO",
+     "525.2",
+     "<",
+     "MRL",
+     "0.031 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2015",
+     "METHOXYCHLOR",
+     "525.2",
+     "<",
+     "MRL",
+     "0.024 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2326",
+     "PENTACHLOROPHENOL",
+     "515.4",
+     "<",
+     "MRL",
+     "0.05 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2040",
+     "PICLORAM",
+     "515.4",
+     "<",
+     "MRL",
+     "0.1 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2037",
+     "SIMAZINE",
+     "525.2",
+     "<",
+     "MRL",
+     "0.022 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2383",
+     "TOTAL POLYCHLORINATED BIPHENYLS (PCB)",
+     "508.1",
+     "<",
+     "MRL",
+     "0.05 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ],
+    [
+     "2020",
+     "TOXAPHENE",
+     "508.1",
+     "<",
+     "MRL",
+     "0.25 UG/L",
+     "",
+     "01-01-2025 03-31-2025"
+    ]
+   ]
+  ]
+ }
+}

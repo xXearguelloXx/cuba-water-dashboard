@@ -1,0 +1,20 @@
+sample_date,sample_no,sample_point,location,analyte_code,analyte,method,detected,result,reporting_limit,unit_reported,result_mg_L,monitoring_period,lab,limit,limit_type,limit_unit,pct_of_limit
+2025-02-25,2025018939B,SP090230041,Treatment Plant,4010,COMBINED RADIUM (-226 & -228),,True,0.78,,PCI/L,,01-01-2025 03-31-2025,Scientific Laboratory Division,5.0,MCL,pCi/L,15.6
+2025-02-25,2025018939B,SP090230041,Treatment Plant,4000,"GROSS ALPHA, EXCL. RADON & U",,True,4.5,,PCI/L,,01-01-2025 03-31-2025,Scientific Laboratory Division,15.0,MCL,pCi/L,30.0
+2025-02-25,2025006752,SP090230041,Treatment Plant,1038,NITRATE-NITRITE,353.2,True,0.13,,MG/L,0.13,01-01-2025 12-31-2025,Scientific Laboratory Division,10.0,MCL (as N),mg/L,1.3
+2025-05-13,2025018939C,SP090230041,Treatment Plant,4010,COMBINED RADIUM (-226 & -228),,True,0.78,,PCI/L,,04-01-2025 06-30-2025,Scientific Laboratory Division,5.0,MCL,pCi/L,15.6
+2025-05-13,2025018939C,SP090230041,Treatment Plant,4000,"GROSS ALPHA, EXCL. RADON & U",,True,4.5,,PCI/L,,04-01-2025 06-30-2025,Scientific Laboratory Division,15.0,MCL,pCi/L,30.0
+2025-07-08,885-28370-2,SP090230031,Well # 3,1017,CHLORIDE,300.0,True,2.0,,MG/L,2.0,,Hall Environmental Analysis Laboratory,250.0,Secondary (aesthetic) standard,mg/L,0.8
+2025-07-08,2025018939D,SP090230041,Treatment Plant,4010,COMBINED RADIUM (-226 & -228),,True,0.78,,PCI/L,,07-01-2025 09-30-2025,Scientific Laboratory Division,5.0,MCL,pCi/L,15.6
+2025-07-08,885-28370-2,SP090230031,Well # 3,1025,FLUORIDE,300.0,True,0.21,,MG/L,0.21,,Hall Environmental Analysis Laboratory,4.0,MCL,mg/L,5.2
+2025-07-08,2025018939D,SP090230041,Treatment Plant,4000,"GROSS ALPHA, EXCL. RADON & U",,True,4.5,,PCI/L,,07-01-2025 09-30-2025,Scientific Laboratory Division,15.0,MCL,pCi/L,30.0
+2025-07-08,885-28370-2,SP090230031,Well # 3,1028,IRON,200.7,True,0.16,,MG/L,0.16,,Hall Environmental Analysis Laboratory,0.3,Secondary (aesthetic) standard,mg/L,53.3
+2025-07-08,885-28370-2,SP090230031,Well # 3,1032,MANGANESE,200.7,True,0.9,,MG/L,0.9,,Hall Environmental Analysis Laboratory,0.05,Secondary (aesthetic) standard,mg/L,1800.0
+2025-07-08,885-28370-2,SP090230031,Well # 3,1920,ODOR,2150B,True,2.0,,TON,,,Hall Environmental Analysis Laboratory,3.0,Secondary (aesthetic) standard,TON,66.7
+2025-07-08,885-28370-2,SP090230031,Well # 3,1925,PH,SM 4500H+ B,True,7.7,,SU,,,Hall Environmental Analysis Laboratory,,,,
+2025-07-08,885-28370-2,SP090230031,Well # 3,1055,SULFATE,300.0,True,120.0,,MG/L,120.0,,Hall Environmental Analysis Laboratory,250.0,Secondary (aesthetic) standard,mg/L,48.0
+2025-07-08,885-28370-2,SP090230031,Well # 3,1930,TDS,2540C,True,566.0,,MG/L,566.0,,Hall Environmental Analysis Laboratory,500.0,Secondary (aesthetic) standard,mg/L,113.2
+2025-07-08,885-28370-2,SP090230031,Well # 3,1095,ZINC,200.7,True,0.027,,MG/L,0.027,,Hall Environmental Analysis Laboratory,5.0,Secondary (aesthetic) standard,mg/L,0.5
+2026-09-01,2026022150,SP090230041,Treatment Plant,1010,BARIUM,200.8,True,0.031,,MG/L,0.031,01-01-2026 12-31-2028,Scientific Laboratory Division,2.0,MCL,mg/L,1.6
+2026-09-01,2026022157,SP090230041,Treatment Plant,1025,FLUORIDE,4500F-C,True,0.24,,MG/L,0.24,01-01-2026 12-31-2028,Scientific Laboratory Division,4.0,MCL,mg/L,6.0
+2026-09-01,2026022150,SP090230041,Treatment Plant,1052,SODIUM,200.7,True,62.0,,MG/L,62.0,01-01-2026 12-31-2028,Scientific Laboratory Division,,,,
