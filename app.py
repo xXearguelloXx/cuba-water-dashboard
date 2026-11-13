@@ -202,7 +202,7 @@ with tabs[4]:
         "- [NMED Drinking Water Watch: Cuba Water System](https://dww.water.env.nm.gov/JSP/WaterSystemDetail.jsp?tinwsys_is_number=454&tinwsys_st_code=NM)\n"
         "- [EPA Envirofacts SDWIS: violations for NM3509023](https://data.epa.gov/efservice/VIOLATION/PWSID/NM3509023/JSON)\n"
         "- [NMED Administrative Compliance Order 2026-DW-ACOP-02](https://cloud.env.nm.gov/resources/_translator.php/YTgzMDg5MjQ0YThjZTMwZDViNmU2M2ViN18yMzQ5OTY~.pdf)\n"
-        "- [WHO Technical Note 11: Measuring chlorine levels in water supplies](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_11_Measuring_chlorine_levels_in_water_supplies.pdf)"
+        "- [Measuring chlorine levels in water supplies](https://wedc-knowledge.lboro.ac.uk/resources/who_notes/WHO_TNE_11_Measuring_chlorine_levels_in_water_supplies.pdf)"\n
         "- [Sanitary Survey Report](https://www.cubanm.gov/wp-content/uploads/2025/04/Water-Quality-Report_09202024.pdf)\n"
         "- [Government Database](https://dww.water.env.nm.gov/JSP/WaterSystemDetail.jsp?tinwsys_is_number=454&tinwsys_st_code=NM&wsnumber=NM3509023%20%20%20&DWWState=NM)\n"
         "- [Enforcement Actions on Cuba](https://regionalassociations.org/new-mexico-94-enforcement-actions-initiated-54-resolved-in-july-2026/)\n"
